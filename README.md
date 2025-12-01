@@ -265,7 +265,6 @@ showAlertDialog: () async {
             ) ??
             false;
       },
-
 ```
 
 
@@ -285,4 +284,3 @@ Even in this scenario, the `backToForeground()` method will open the app and you
 ## push test tool
 
 Please refer to the [Push Toolkit](/tools/) to test callkeep offline push.
-````
