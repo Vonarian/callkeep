@@ -238,7 +238,7 @@ Future<void> closeIncomingCall(
 
 Pass in your own dialog UI for permissions alerts:
 
-````dart
+```dart
 showAlertDialog: () async {
         final BuildContext context = navigatorKey.currentContext!;
 
