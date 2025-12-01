@@ -236,7 +236,7 @@ Future<void> closeIncomingCall(
 }
 ```
 
-Pass in your own dialog UI for permissions alerts
+Pass in your own dialog UI for permissions alerts:
 
 ````dart
 showAlertDialog: () async {
